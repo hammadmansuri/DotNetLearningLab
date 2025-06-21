@@ -1,0 +1,15 @@
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.AssemblyInfoInputs.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.AssemblyInfo.cs
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.csproj.CoreCompileInputs.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.sourcelink.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\bin\Debug\net8.0\01-SOLID-Principles.exe
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\bin\Debug\net8.0\01-SOLID-Principles.deps.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\bin\Debug\net8.0\01-SOLID-Principles.runtimeconfig.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\bin\Debug\net8.0\01-SOLID-Principles.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\bin\Debug\net8.0\01-SOLID-Principles.pdb
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\refint\01-SOLID-Principles.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.pdb
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\01-SOLID-Principles.genruntimeconfig.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\02-OOP-Advanced\01-SOLID-Principles\obj\Debug\net8.0\ref\01-SOLID-Principles.dll

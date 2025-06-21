@@ -1,0 +1,6 @@
+"bin/" 
+"obj/" 
+".vs/" 
+"*.user" 
+// add obj files to ignore
+"*.obj"

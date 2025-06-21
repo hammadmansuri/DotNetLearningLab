@@ -1,0 +1,15 @@
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.AssemblyInfoInputs.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.AssemblyInfo.cs
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.sourcelink.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\bin\Debug\net8.0\02-Inheritance.exe
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\bin\Debug\net8.0\02-Inheritance.deps.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\bin\Debug\net8.0\02-Inheritance.runtimeconfig.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\bin\Debug\net8.0\02-Inheritance.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\bin\Debug\net8.0\02-Inheritance.pdb
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\refint\02-Inheritance.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.pdb
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\02-Inheritance.genruntimeconfig.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\02-Inheritance\obj\Debug\net8.0\ref\02-Inheritance.dll
