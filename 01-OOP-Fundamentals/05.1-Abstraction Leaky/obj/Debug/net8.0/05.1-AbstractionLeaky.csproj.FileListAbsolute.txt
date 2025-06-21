@@ -1,0 +1,15 @@
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\bin\Debug\net8.0\05.1-AbstractionLeaky.exe
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\bin\Debug\net8.0\05.1-AbstractionLeaky.deps.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\bin\Debug\net8.0\05.1-AbstractionLeaky.runtimeconfig.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\bin\Debug\net8.0\05.1-AbstractionLeaky.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\bin\Debug\net8.0\05.1-AbstractionLeaky.pdb
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.AssemblyInfoInputs.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.AssemblyInfo.cs
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.csproj.CoreCompileInputs.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.sourcelink.json
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\refint\05.1-AbstractionLeaky.dll
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.pdb
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\05.1-AbstractionLeaky.genruntimeconfig.cache
+C:\Users\hmansuri\source\repos\DotNetLearningLab\01-OOP-Fundamentals\05.1-Abstraction Leaky\obj\Debug\net8.0\ref\05.1-AbstractionLeaky.dll
