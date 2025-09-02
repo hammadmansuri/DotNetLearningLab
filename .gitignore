@@ -4,3 +4,4 @@
 "*.user" 
 // add obj files to ignore
 "*.obj"
+02-OOP-Advanced/02-Design-Patterns/obj/02-Design-Patterns.csproj.nuget.g.props
